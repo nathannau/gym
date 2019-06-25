@@ -1,2 +1,7 @@
 data
 .ipynb_checkpoints
+.vscode
+
+
+
+test.py
